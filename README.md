@@ -4,11 +4,12 @@ NFTIT!是一款Windows下的以太坊NFT制作工具，可以快速完成艺术�
 
 NFTIT!的主要特点如下：
 
-- 无需安装，下载解压即可使用
+- 无需安装，下载解压即可使用。下载地址：[github](https://github.com/ezpod/NFTIT/releases/download/v1.0.0/NFTIT-windows-1.0.0.tar.gz)
 - 内置钱包管理，支持新建钱包或导入已有钱包
 - 支持右键菜单操作，选中作品即可直接制作NFT：
 
 ![](img/context-menu.png)
+
 
 ## 1、钱包初始化
 
